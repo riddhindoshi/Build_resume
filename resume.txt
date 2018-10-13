@@ -1,0 +1,14 @@
+Riddhi Navin Doshi
+        Courses - CIS 540 - Operating Systems, ESE 532 - System on Chip, CIT 590 - Programming Languages and Techniques, ESE 519 - Real-time Embedded Systems
+            Projects
+PennOS (UNIX-like OS) Implementation - Built a Virtual Operating Systems priority scheduler(Round-Robin), flat file system and user shell interactions with background and foreground processes, redirections, multi-stage pipelines and job control
+Memory Management Unit (MMU) Emulator - Emulated MMU and Page replacement algorithm(FIFO)
+Implemented Rate Monotonic scheduler on RTOS -  Developed a custom task set and scheduled them using Rate Monotonic Scheduling
+Data Acquisition System for UAVs with effective stall warning using IoT Edge Computing - Used SAM W25 Module interfaced various peripherals using I2C, SPI, UART Protocols
+MPEG-2 Encoder Acceleration - Redesigning MPEG-2 encoder running on Xilinx-Zynq 7000 SoC by exploring optimal resource utilization, pipeline, HW acceleration(C to RTL), multithreading, task decomposition, performance area trade-offs, etc.
+Balance Bot - Designed a PID controller for position and balance control of a bot and implemented it on Mbed
+Detection of Valvular Heart Diseases - Detected stroke volume change using pulse oximeter along with Raspberry Pi
+Design and Manufacturing of Radio-Controlled Airplanes for Distributed manufacturing - Designed 2 aircraft, one of them acting as the carrier for the other as a part of the international Raytheon Missile Systems Student Design/Build/Fly Competition(organized by AIAA) and stood 2nd for design report score
+Model checking of heart and pacemaker -  Modelled heart and pacemaker using timed automaton concept and simulated it on Matlab and UPPAAL
+------------------------------
+rndoshi@seas.upenn.edu
